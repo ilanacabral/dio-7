@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroservicoscloudApplication<microservicoscloud>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.diolabs.microservicoscloud.MicroservicoscloudApplication",
+            "projectName": "microservicoscloud",
+            "args": ""
+        }
+    ]
+}
